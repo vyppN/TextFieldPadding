@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TextFieldPadding_Tests' do
+  pod 'TextFieldPadding', :path => '../'
+  
+  
+end
